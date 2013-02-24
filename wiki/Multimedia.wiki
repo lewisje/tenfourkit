@@ -1,4 +1,5 @@
 #summary HTML5 features
+#labels Featured
 
 
 Plugins _disabled_.
