@@ -1,24 +1,22 @@
-#summary H.264 & HTML5
-
-=Modes=
+#summary HTML5 features
 
 ===Secure===
 
 Plugins/Java _disabled_.
 
-  * YouTube HD
+  * YouTube
       * defaults write com.apple.Safari WebKitFullScreenEnabled -bool YES
 
-  * Vimeo HD
+  * Vimeo
 
-  * DailyMotion HD
+  * DailyMotion
 
 ===Live===
 
 Plugins _enabled_. 
 
-  * Veetle HD
+  * Veetle
 
 ===Notes===
 
-Debug Menu (UA): % defaults write com.apple.Safari IncludeDebugMenu 1
+Debug Menu: % defaults write com.apple.Safari IncludeDebugMenu 1
