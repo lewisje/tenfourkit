@@ -5,8 +5,9 @@
 Plugins/Java _disabled_.
 
   * YouTube
-      * defaults write com.apple.Safari WebKitFullScreenEnabled -bool YES
-
+{{{
+defaults write com.apple.Safari WebKitFullScreenEnabled -bool YES
+}}}
   * Vimeo
 
   * DailyMotion
@@ -15,8 +16,11 @@ Plugins/Java _disabled_.
 
 Plugins _enabled_. 
 
-  * Veetle
+  * Veetle (plug-in)
 
 ===Notes===
 
-Debug Menu: % defaults write com.apple.Safari IncludeDebugMenu 1
+  * Debug Menu
+{{{
+defaults write com.apple.Safari IncludeDebugMenu 1
+}}}
