@@ -2,7 +2,7 @@
 
 ===Secure===
 
-Plugins/Java _disabled_.
+Plugins _disabled_.
 
   * YouTube
 {{{
