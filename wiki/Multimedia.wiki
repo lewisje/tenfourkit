@@ -1,6 +1,5 @@
 #summary HTML5 features
 
-===Secure===
 
 Plugins _disabled_.
 
